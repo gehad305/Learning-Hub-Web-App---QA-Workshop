@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\19970064-5e16-4030-866a-b16034271d02b6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\19970064-5e16-4030-866a-b16034271d02b6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\888c9810-a021-451d-a42c-815f09d91d5ab6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\888c9810-a021-451d-a42c-815f09d91d5ab6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\8eee1b1a-aa24-476f-b649-2aaaa48fb2c08191eecf-3e2f-467b-b89f-90d30544af43.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\8eee1b1a-aa24-476f-b649-2aaaa48fb2c08191eecf-3e2f-467b-b89f-90d30544af43.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\9332c6c4-e08c-4854-b898-337949bf12d28191eecf-3e2f-467b-b89f-90d30544af43.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\9332c6c4-e08c-4854-b898-337949bf12d28191eecf-3e2f-467b-b89f-90d30544af43.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\ISTANBUL.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\ISTANBUL.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\Italy.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\Italy.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\alex.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\alex.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\almani.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\almani.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\ancient egyption.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\ancient egyption.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\ba3295c3-20c1-4e8f-8497-b21e71bf1a93b6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\ba3295c3-20c1-4e8f-8497-b21e71bf1a93b6ecf930-2ddc-456a-8328-e9f8a2c841e4.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\english-2724442_1280.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\english-2724442_1280.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\gold.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\gold.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\indiaaa.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\indiaaa.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\py2.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\py2.jpg"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\video2.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\video2.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\video33.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\video33.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Images\\visdo1.mp4",
+      "PackagePath": "staticwebassets\\Files\\Images\\visdo1.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\Files\\Videos\\indiaaa.mp4",
+      "PackagePath": "staticwebassets\\Files\\Videos\\indiaaa.mp4"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\css\\authLayoutt.css",
+      "PackagePath": "staticwebassets\\css\\authLayoutt.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Sara'sProject\\Sara'sProject\\Demo.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,73 @@
+﻿@*@model List<Content>
+<h1>Pending Posts </h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var content in Model)
+        {
+            <tr>
+                <td>@content.ContentText</td>
+
+                <td><video src="@content.FilePath"></video></td>
+                            
+                <td>
+                    <form asp-controller="Content" asp-action="ApproveContent" method="post">
+                        <input type="hidden" name="contentId" value="@content.Id" />
+                        <button type="submit" class="btn btn-success">Accept</button>
+                    </form>
+                    <form asp-controller="Content" asp-action="RejectContent" method="post">
+                        <input type="hidden" name="contentId" value="@content.Id" />
+                        <button type="submit" class="btn btn-danger">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+*@
+
+
+@model List<Content>
+<h1>Pending Posts</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var content in Model)
+        {
+            <tr>
+                <td>
+                    @if (content.ContentType == "article")
+                    {
+                        @Html.Raw(content.ContentText)
+                    }
+                    else if (content.ContentType == "video")
+                    {
+                        <video src="@content.FilePath "  controls width="320" height="240"></video>
+                    }
+                </td>
+                <td>
+                    <form asp-controller="Content" asp-action="ApproveContent" method="post">
+                        <input type="hidden" name="contentId" value="@content.Id" />
+                        <button type="submit" class="btn btn-success">Accept</button>
+                    </form>
+                    <form asp-controller="Content" asp-action="RejectContent" method="post">
+                        <input type="hidden" name="contentId" value="@content.Id" />
+                        <button type="submit" class="btn btn-danger">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
